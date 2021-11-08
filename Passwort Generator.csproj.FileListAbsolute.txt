@@ -1,0 +1,10 @@
+C:\Users\Beni\source\repos\Passwort Generator\Passwort Generator\bin\Debug\Passwort Generator.exe.config
+C:\Users\Beni\source\repos\Passwort Generator\Passwort Generator\bin\Debug\Passwort Generator.exe
+C:\Users\Beni\source\repos\Passwort Generator\Passwort Generator\bin\Debug\Passwort Generator.pdb
+C:\Users\Beni\source\repos\Passwort Generator\Passwort Generator\obj\Debug\Passwort Generator.csproj.AssemblyReference.cache
+C:\Users\Beni\source\repos\Passwort Generator\Passwort Generator\obj\Debug\Passwort_Generator.Form1.resources
+C:\Users\Beni\source\repos\Passwort Generator\Passwort Generator\obj\Debug\Passwort_Generator.Properties.Resources.resources
+C:\Users\Beni\source\repos\Passwort Generator\Passwort Generator\obj\Debug\Passwort Generator.csproj.GenerateResource.cache
+C:\Users\Beni\source\repos\Passwort Generator\Passwort Generator\obj\Debug\Passwort Generator.csproj.CoreCompileInputs.cache
+C:\Users\Beni\source\repos\Passwort Generator\Passwort Generator\obj\Debug\Passwort Generator.exe
+C:\Users\Beni\source\repos\Passwort Generator\Passwort Generator\obj\Debug\Passwort Generator.pdb
